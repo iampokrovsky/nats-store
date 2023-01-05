@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/pokrovsky-io/msg-store/internal/entity"
+	"github.com/pokrovsky-io/nats-store/internal/entity"
 )
 
 type UseCase struct {

@@ -3,8 +3,8 @@ package nats
 import (
 	"encoding/json"
 	"github.com/nats-io/stan.go"
-	"github.com/pokrovsky-io/msg-store/internal/entity"
-	"github.com/pokrovsky-io/msg-store/internal/usecase"
+	"github.com/pokrovsky-io/nats-store/internal/entity"
+	"github.com/pokrovsky-io/nats-store/internal/usecase"
 	"log"
 	"sync"
 )

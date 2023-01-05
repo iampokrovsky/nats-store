@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/pokrovsky-io/msg-store/internal/entity"
+import "github.com/pokrovsky-io/nats-store/internal/entity"
 
 type Order interface {
 	Create(order *entity.Order) error
