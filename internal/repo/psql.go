@@ -3,7 +3,7 @@ package repo
 import (
 	"encoding/json"
 	"github.com/jmoiron/sqlx"
-	"github.com/pokrovsky-io/nats-store/internal/entity"
+	"nats-store/internal/entity"
 )
 
 type psql struct {

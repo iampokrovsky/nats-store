@@ -3,9 +3,9 @@ package nats
 import (
 	"encoding/json"
 	"github.com/nats-io/stan.go"
-	"github.com/pokrovsky-io/nats-store/internal/entity"
-	"github.com/pokrovsky-io/nats-store/internal/usecase"
 	"log"
+	"nats-store/internal/entity"
+	"nats-store/internal/usecase"
 	"sync"
 )
 

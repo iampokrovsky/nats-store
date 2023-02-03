@@ -1,4 +1,4 @@
-module github.com/pokrovsky-io/nats-store
+module nats-store
 
 go 1.19
 

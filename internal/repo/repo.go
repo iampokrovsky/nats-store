@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
-	"github.com/pokrovsky-io/nats-store/internal/entity"
 	"log"
+	"nats-store/internal/entity"
 )
 
 const (

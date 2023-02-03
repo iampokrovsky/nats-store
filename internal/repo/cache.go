@@ -1,7 +1,7 @@
 package repo
 
 import (
-	"github.com/pokrovsky-io/nats-store/internal/entity"
+	"nats-store/internal/entity"
 )
 
 type cache struct {
